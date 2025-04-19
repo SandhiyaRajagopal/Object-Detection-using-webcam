@@ -33,11 +33,10 @@ To write a Python program to perform real-time object detection using a webcam.
 ---
 
 ## PROGRAM:
-
+```
 **NAME**: Sandhiya R 
 **REG.NO**: 212223240146 
 
-```
 import cv2
 import numpy as np
 
